@@ -1,0 +1,5 @@
+sales:
+ consumerkey: "![vnT79OjS4cgBZbiR1bN2gSmgJl62g7CSFJHgcpBI4nmDmIchFrTCNjP68gyAsfzjFw41twiweRFVTTPlN9DO4B8SnmZrbfCcuR76kq74EXp7uFOWWwZmzQ==]"
+ consumersecret: "![YxOHJ0TRJMXLfDxz9spdrE0MTM7Y6iX8AjTRg7inYpf+H3RauRBW+85XDKAPICmiSRQBDpn9wLVkhk+A2HI9aGsY1wSGNsEL]"
+ linkaddress: "https://apicentrics.my.salesforce.com/services/oauth2/token"
+ 
